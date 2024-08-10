@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Full Stack Web Development - Intern",
+    "organisation": "techplement",
+    "startDate": "May, 2024 - ",
+    "endDate": "July 2024",
+    "location": "India",
+    "experiences": [
+      "Developed and maintained web applications using the MERN stack, enhancing functionality and user experience",
+      "Collaborated with cross-functional teams to implement new features and resolve technical issues efficiently"
+    ],
+    "imageSrc": "company/techplement.jpeg"
+  }
+]

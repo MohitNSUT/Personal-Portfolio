@@ -1,0 +1,37 @@
+
+
+[
+  {
+    "key": 1,
+    "title": "Food by Coder web App",
+    "imageSrc": " /assets/project/foodDel.jpg",
+    "description": "Made a food delivery web application using HTML, React, Node.js, and JavaScript, providing a seamless user experience Utilized MongoDB for efficient and scalable database management ",
+    "demo": "https://github.com/MohitNSUT/Food-By-Coder-Delivery-App/blob/main/README.md",
+    "source": "https://github.com/MohitNSUT/Food-By-Coder-Delivery-App"
+  },
+  {
+    "key": 2,
+    "title": "Notes-Hub",
+    "imageSrc": "/assets/project/noteApp.png",
+    "description": "Developed a secure Notes Writing app using the MERN stack, implementing authentication with JSON Web Tokens (JWT). This ensures user data is protected and accessible across devices.",
+    "demo": "https://github.com/MohitNSUT/Notes-App/blob/main/README.md",
+    "source": "https://github.com/MohitNSUT/Notes-App"
+  },
+  {
+    "key": 3,
+    "title": "Snake game",
+    "imageSrc": "/assets/project/snakeGame.png",
+    "description": "Experience the nostalgia with a modern twist in this JavaScript-crafted Snake game, responsive design. Relive the classic fun and challenge your reflexes - guide your snake to victory",
+    "demo": "https://snake-game-grid.netlify.app",
+    "source": "https://github.com/MohitNSUT/Snake-Game"
+  },
+
+  {
+    "key": 3,
+    "title": "Amazon Clone (UI only)",
+    "imageSrc": "/assets/project/amazon.png",
+    "description": "Developed a UI for an Amazon clone using HTML and CSS, focusing on responsive design and user-friendly navigation.",
+    "demo": "https://github.com/MohitNSUT/Amazon-Clone/blob/main/Screenshot%20(2323).png",
+    "source": "https://github.com/MohitNSUT/Amazon-Clone"
+  }
+]
